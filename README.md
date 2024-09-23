@@ -14,6 +14,14 @@ mockUpStrand() is used to generate an array containing 15 bases to represent a s
 
 You’ll use these helper functions later to create your objects that represent P. aequor.
 
+***Task 2 - Look over the starter code. There are two helper functions: returnRandBase() and mockUpStrand().
+
+DNA is comprised of four bases (Adenine, Thymine, Cytosine, and Guanine). When returnRandBase() is called, it will randomly select a base and return the base ('A','T','C', or 'G').
+
+mockUpStrand() is used to generate an array containing 15 bases to represent a single DNA strand with 15 bases.
+
+You’ll use these helper functions later to create your objects that represent P. aequor.
+
 
 ***Task 3 - Since you need to create multiple objects, create a factory function pAequorFactory() that has two parameters:
 
